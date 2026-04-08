@@ -13,7 +13,7 @@ export default () => {
             to: '/dotfiles',
             icon: 'i-lucide-folder-dot'
         },{
-            label: 'Gitron',
+            label: 'ChaosForge',
             to: 'https://git.ron-gibson.com',
             icon: 'i-lucide-folder-git-2'
         },{
