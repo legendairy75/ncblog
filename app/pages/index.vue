@@ -40,7 +40,7 @@
 
   <UPageCard
   title="Contact"
-  description="roncrash1@gmail.com"/>
+  description="gibsoncameron@gmail.com"/>
 
   <UPageCard>
     <template #title>
